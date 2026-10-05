@@ -1,0 +1,7 @@
+ccxt==4.5.85
+numpy==2.5.3
+pandas==3.0.6
+plotly==7.1.0
+reportlab==5.0.1
+Requests==2.34.2
+streamlit==1.65.0
